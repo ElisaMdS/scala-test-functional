@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 18 products, 10 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/orders/ui/Main.scala, ${BASE}/src/main/scala/orders/application/queries/OrdersByIntervalQuery.scala, ${BASE}/src/main/scala/shared/utils/Utils.scala, ${BASE}/src/main/scala/orders/infrastructure/OrdersRepository.scala, ${BASE}/src/main/scala/orders/application/queries/OrderByIntervalQueryHandlerInterface.scala, ${BASE}/src/main/scala/orders/domain/Item.scala, ${BASE}/src/main/scala/orders/infrastructure/OrderRepositoryInterface.scala, ${BASE}/src/main/scala/orders/application/queries/OrdersByIntervalQueryHandler.scala, ${BASE}/src/main/scala/orders/domain/Product.scala, ${BASE}/src/main/scala/orders/domain/Order.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/orders/ui/Main.scala), unmodified = ...),Set(${BASE}/target/scala-3.2.2/classes/orders/application/queries/OrdersByIntervalQueryHandler.class, ${BASE}/target/scala-3.2.2/classes/shared/utils/Utils.class, ${BASE}/target/scala-3.2.2/classes/orders/application/queries/OrdersByIntervalQuery.class, ${BASE}/target/scala-3.2.2/classes/orders/application/queries/OrderByIntervalQueryHandlerInterface.class, ${BASE}/target/scala-3.2.2/classes/orders/domain/Product.class, ${BASE}/target/scala-3.2.2/classes/orders/infrastructure/OrderRepositoryInterface.class, ${BASE}/target/scala-3.2.2/classes/orders/ui/Main.class, ${BASE}/target/scala-3.2.2/classes/orders/domain/Order.class, ${BASE}/target/scala-3.2.2/classes/orders/domain/Item.class, ${BASE}/target/scala-3.2.2/classes/orders/infrastructure/OrdersRepository.class),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/orders/ui/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(${BASE}/target/scala-3.2.2/classes/orders/application/queries/OrdersByIntervalQueryHandler.class, ${BASE}/target/scala-3.2.2/classes/shared/utils/Utils.class, ${BASE}/target/scala-3.2.2/classes/orders/application/queries/OrdersByIntervalQuery.class, ${BASE}/target/scala-3.2.2/classes/orders/application/queries/OrderByIntervalQueryHandlerInterface.class, ${BASE}/target/scala-3.2.2/classes/orders/domain/Product.class, ${BASE}/target/scala-3.2.2/classes/orders/infrastructure/OrderRepositoryInterface.class, ${BASE}/target/scala-3.2.2/classes/orders/ui/Main.class, ${BASE}/target/scala-3.2.2/classes/orders/domain/Order.class, ${BASE}/target/scala-3.2.2/classes/orders/domain/Item.class, ${BASE}/target/scala-3.2.2/classes/orders/infrastructure/OrdersRepository.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(orders.ui.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(${BASE}/src/main/scala/orders/ui/Main.scala, ${BASE}/src/main/scala/orders/application/queries/OrdersByIntervalQuery.scala, ${BASE}/src/main/scala/shared/utils/Utils.scala, ${BASE}/src/main/scala/orders/infrastructure/OrdersRepository.scala, ${BASE}/src/main/scala/orders/application/queries/OrderByIntervalQueryHandlerInterface.scala, ${BASE}/src/main/scala/orders/domain/Item.scala, ${BASE}/src/main/scala/orders/infrastructure/OrderRepositoryInterface.scala, ${BASE}/src/main/scala/orders/application/queries/OrdersByIntervalQueryHandler.scala, ${BASE}/src/main/scala/orders/domain/Product.scala, ${BASE}/src/main/scala/orders/domain/Order.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 10 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: orders.ui.Main[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 10 Scala sources to C:\Users\User01\Desktop\Programação\Scala\Scala Test\test\target\scala-3.2.2\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\User01\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-sbt-bridge\3.2.2\scala3-sbt-bridge-3.2.2.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 204e1aab for Scala Compiler version 3.2.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\User01\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.2.2\scala3-library_3-3.2.2.jar;C:\Users\User01\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\User01\Desktop\Programação\Scala\Scala Test\test\target\scala-3.2.2\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 7.372674 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m

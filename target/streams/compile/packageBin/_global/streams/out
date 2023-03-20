@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\repos\test\target\scala-3.2.2\test_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\repos\test\target\scala-3.2.2\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\repos\test\target\scala-3.2.2\classes\com\scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\scala\test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\repos\test\target\scala-3.2.2\classes\com\scala\test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\scala\test\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\repos\test\target\scala-3.2.2\classes\com\scala\test\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\scala\test\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\repos\test\target\scala-3.2.2\classes\com\scala\test\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\scala\test\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\repos\test\target\scala-3.2.2\classes\com\scala\test\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

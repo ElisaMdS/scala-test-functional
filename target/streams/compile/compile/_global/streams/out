@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\repos\test\src\main\scala\Data.scala:8:110 ------------------------[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m8 |[0m    [33mval[0m [36mproduct2[0m: [35mProduct[0m = [33mnew[0m [35mProduct[0m([31m"Tablet"[0m, [31m"Dispositivos Móveis"[0m, [31m500.00[0m, [31m2500.99[0m, LocalDateTime.parse("2022-01- 00:00:00))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                                                                                                              ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m                                                   unclosed string literal[0m
+[0m[[0m[0minfo[0m] [0m[0mexception occurred while parser C:\repos\test\src\main\scala\Data.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mexception occurred while compiling C:\repos\test\src\main\scala\Data.scala, C:\repos\test\src\main\scala\Main.scala[0m
